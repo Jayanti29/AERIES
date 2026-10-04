@@ -404,3 +404,4 @@
 ## [402] 2026-10-05 01:53:43Z - feat(craft): implement /craft/maintenance inspection schedule endpoint
 ## [403] 2026-10-05 01:54:23Z - feat(craft): implement maintenance:flag controlled audited action
 ## [404] 2026-10-05 01:55:03Z - feat(supply): implement /supply/summary and /supply/resources endpoints
+## [405] 2026-10-05 01:55:43Z - feat(supply): implement /supply/forecast pressure curves with confidence bands
