@@ -34,3 +34,4 @@
 ## [032] 2026-10-04 21:47:03Z - test(rbac): add unit test verifying deny-by-default for unauthenticated requests
 ## [033] 2026-10-04 21:47:43Z - test(rbac): add test verifying separation of duties: planner cannot approve
 ## [034] 2026-10-04 21:48:23Z - test(rbac): add test verifying authority cannot create plans
+## [035] 2026-10-04 21:49:03Z - test(rbac): add test verifying pilot can only see own state
