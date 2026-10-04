@@ -212,3 +212,4 @@
 ## [210] 2026-10-04 23:45:43Z - feat(seed): generate 6 synthetic base stations (Alpha through Foxtrot)
 ## [211] 2026-10-04 23:46:23Z - feat(seed): generate 60 aircraft platforms (A01 to A60) across 5 airframe types
 ## [212] 2026-10-04 23:47:03Z - feat(seed): generate 400 personnel records (P-0001 to P-0400) with masked calls
+## [213] 2026-10-04 23:47:43Z - feat(seed): generate 12 resource stocks (R01 to R12) with 90% demand ratio
