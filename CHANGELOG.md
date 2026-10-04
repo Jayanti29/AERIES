@@ -644,3 +644,4 @@
 ## [642] 2026-10-05 04:33:43Z - feat(explanation): generate Why-Chosen justifications with threshold deltas
 ## [643] 2026-10-05 04:34:23Z - feat(explanation): generate Why-Not justifications for rejected alternatives
 ## [644] 2026-10-05 04:35:03Z - feat(decisions): implement Decision Authority review queue
+## [645] 2026-10-05 04:35:43Z - feat(decisions): enforce separation of duties: reject approval if actor created plan
