@@ -41,3 +41,4 @@
 ## [039] 2026-10-04 21:51:43Z - test(crypto): add test verifying decryption fails safely on corrupted tag
 ## [040] 2026-10-04 21:52:23Z - docs(adr): document adr-001 deny-by-default permission architecture
 ## [041] 2026-10-04 21:53:03Z - docs(adr): document adr-002 cryptographic hash chaining for audit logs
+## [042] 2026-10-04 21:53:43Z - docs(adr): document adr-003 pure-python resilient fallback architecture
