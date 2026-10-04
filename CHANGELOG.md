@@ -103,3 +103,4 @@
 ## [101] 2026-10-04 22:33:03Z - feat(tokens): define institutional color tokens for dark theme
 ## [102] 2026-10-04 22:33:43Z - feat(tokens): define high-contrast color tokens for light theme
 ## [103] 2026-10-04 22:34:23Z - feat(ui): configure tailwind with aeris design tokens
+## [104] 2026-10-04 22:35:03Z - feat(ui): bundle inter and jetbrains mono font families
