@@ -112,3 +112,4 @@
 ## [110] 2026-10-04 22:39:03Z - feat(ui): add AppShell layout with responsive grid
 ## [111] 2026-10-04 22:39:43Z - feat(ui): add TopBar with search, status chips, and user menu
 ## [112] 2026-10-04 22:40:23Z - feat(ui): add Sidebar with role-scoped menu sections
+## [113] 2026-10-04 22:41:03Z - feat(ui): implement demo role switcher in top bar for evaluation
