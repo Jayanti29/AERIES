@@ -203,3 +203,4 @@
 ## [201] 2026-10-04 23:39:43Z - feat(db): configure sqlalchemy session with sqlite and postgres pool
 ## [202] 2026-10-04 23:40:23Z - feat(models): define User and MFADevice database models
 ## [203] 2026-10-04 23:41:03Z - feat(models): define BaseStation model with postgis coordinates
+## [204] 2026-10-04 23:41:43Z - feat(models): define AircraftPlatform model with flight hours
