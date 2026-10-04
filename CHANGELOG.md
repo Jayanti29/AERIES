@@ -210,3 +210,4 @@
 ## [208] 2026-10-04 23:44:23Z - feat(models): define Mission model with priority and resource demands
 ## [209] 2026-10-04 23:45:03Z - feat(seed): implement deterministic seed generator with seed=42
 ## [210] 2026-10-04 23:45:43Z - feat(seed): generate 6 synthetic base stations (Alpha through Foxtrot)
+## [211] 2026-10-04 23:46:23Z - feat(seed): generate 60 aircraft platforms (A01 to A60) across 5 airframe types
