@@ -645,3 +645,4 @@
 ## [643] 2026-10-05 04:34:23Z - feat(explanation): generate Why-Not justifications for rejected alternatives
 ## [644] 2026-10-05 04:35:03Z - feat(decisions): implement Decision Authority review queue
 ## [645] 2026-10-05 04:35:43Z - feat(decisions): enforce separation of duties: reject approval if actor created plan
+## [646] 2026-10-05 04:36:23Z - feat(decisions): implement cryptographic digital signing of accepted plans
