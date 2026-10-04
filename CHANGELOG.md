@@ -647,3 +647,4 @@
 ## [645] 2026-10-05 04:35:43Z - feat(decisions): enforce separation of duties: reject approval if actor created plan
 ## [646] 2026-10-05 04:36:23Z - feat(decisions): implement cryptographic digital signing of accepted plans
 ## [647] 2026-10-05 04:37:03Z - feat(replay): implement state recreation timeline with signature verification
+## [648] 2026-10-05 04:37:43Z - feat(governance): add tamper verification check step 8
