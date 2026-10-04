@@ -202,3 +202,4 @@
 ## [200] 2026-10-04 23:39:03Z - feat(ui-components): refine institutional shared component module 100
 ## [201] 2026-10-04 23:39:43Z - feat(db): configure sqlalchemy session with sqlite and postgres pool
 ## [202] 2026-10-04 23:40:23Z - feat(models): define User and MFADevice database models
+## [203] 2026-10-04 23:41:03Z - feat(models): define BaseStation model with postgis coordinates
