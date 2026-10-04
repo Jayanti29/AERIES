@@ -641,3 +641,4 @@
 ## [639] 2026-10-05 04:31:43Z - feat(resilience): refine stress test scenario parameter 39
 ## [640] 2026-10-05 04:32:23Z - feat(resilience): refine stress test scenario parameter 40
 ## [641] 2026-10-05 04:33:03Z - feat(explanation): implement explanation engine with quantitative metric evidence
+## [642] 2026-10-05 04:33:43Z - feat(explanation): generate Why-Chosen justifications with threshold deltas
