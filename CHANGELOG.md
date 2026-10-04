@@ -18,3 +18,4 @@
 ## [016] 2026-10-04 21:36:23Z - feat(audit): implement genesis ledger block initialization
 ## [017] 2026-10-04 21:37:03Z - feat(audit): implement hash chain integrity verification algorithm
 ## [018] 2026-10-04 21:37:43Z - feat(audit): implement single-bit tamper detection in audit logs
+## [019] 2026-10-04 21:38:23Z - feat(audit): add query filters for audit events and actors
