@@ -110,3 +110,4 @@
 ## [108] 2026-10-04 22:37:43Z - feat(ui): add HealthBar component with threshold indicators
 ## [109] 2026-10-04 22:38:23Z - feat(ui): add PlanDNA radar visualization component
 ## [110] 2026-10-04 22:39:03Z - feat(ui): add AppShell layout with responsive grid
+## [111] 2026-10-04 22:39:43Z - feat(ui): add TopBar with search, status chips, and user menu
