@@ -206,3 +206,4 @@
 ## [204] 2026-10-04 23:41:43Z - feat(models): define AircraftPlatform model with flight hours
 ## [205] 2026-10-04 23:42:23Z - feat(models): define ComponentSubsystem model with health indices
 ## [206] 2026-10-04 23:43:03Z - feat(models): define PersonnelRecord model with encrypted real names
+## [207] 2026-10-04 23:43:43Z - feat(models): define ResourceStock model with reserve thresholds
