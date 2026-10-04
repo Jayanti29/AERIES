@@ -207,3 +207,4 @@
 ## [205] 2026-10-04 23:42:23Z - feat(models): define ComponentSubsystem model with health indices
 ## [206] 2026-10-04 23:43:03Z - feat(models): define PersonnelRecord model with encrypted real names
 ## [207] 2026-10-04 23:43:43Z - feat(models): define ResourceStock model with reserve thresholds
+## [208] 2026-10-04 23:44:23Z - feat(models): define Mission model with priority and resource demands
