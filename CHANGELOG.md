@@ -409,3 +409,4 @@
 ## [407] 2026-10-05 01:57:03Z - feat(people): implement /people/summary and /people/roster with masked names
 ## [408] 2026-10-05 01:57:43Z - feat(people): implement /people/unmask with step-up verification and audit event
 ## [409] 2026-10-05 01:58:23Z - feat(people): implement availability:flag controlled audited action
+## [410] 2026-10-05 01:59:03Z - feat(pilot): implement /pilot/me duty endpoint with strict state:read_own check
