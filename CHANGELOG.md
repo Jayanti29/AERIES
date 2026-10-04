@@ -401,3 +401,4 @@
 ## [399] 2026-10-05 01:51:43Z - feat(analytics): optimize state engine projection pipeline step 99
 ## [400] 2026-10-05 01:52:23Z - feat(analytics): optimize state engine projection pipeline step 100
 ## [401] 2026-10-05 01:53:03Z - feat(craft): implement /craft/summary and /craft/fleet endpoints
+## [402] 2026-10-05 01:53:43Z - feat(craft): implement /craft/maintenance inspection schedule endpoint
