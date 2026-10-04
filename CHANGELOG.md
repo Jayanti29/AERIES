@@ -406,3 +406,4 @@
 ## [404] 2026-10-05 01:55:03Z - feat(supply): implement /supply/summary and /supply/resources endpoints
 ## [405] 2026-10-05 01:55:43Z - feat(supply): implement /supply/forecast pressure curves with confidence bands
 ## [406] 2026-10-05 01:56:23Z - feat(supply): implement resource:flag controlled audited action
+## [407] 2026-10-05 01:57:03Z - feat(people): implement /people/summary and /people/roster with masked names
