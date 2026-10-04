@@ -32,3 +32,4 @@
 ## [030] 2026-10-04 21:45:43Z - feat(rbac): implement deny-by-default permission checker
 ## [031] 2026-10-04 21:46:23Z - feat(rbac): add fast-api dependency for permission enforcement
 ## [032] 2026-10-04 21:47:03Z - test(rbac): add unit test verifying deny-by-default for unauthenticated requests
+## [033] 2026-10-04 21:47:43Z - test(rbac): add test verifying separation of duties: planner cannot approve
