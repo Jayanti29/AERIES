@@ -26,3 +26,4 @@
 ## [024] 2026-10-04 21:41:43Z - feat(rbac): define permission matrix for analyst
 ## [025] 2026-10-04 21:42:23Z - feat(rbac): define permission matrix for auditor
 ## [026] 2026-10-04 21:43:03Z - feat(rbac): define permission matrix for pilot with state:read_own
+## [027] 2026-10-04 21:43:43Z - feat(rbac): define permission matrix for craft officer
