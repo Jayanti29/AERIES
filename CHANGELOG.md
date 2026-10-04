@@ -30,3 +30,4 @@
 ## [028] 2026-10-04 21:44:23Z - feat(rbac): define permission matrix for supply officer
 ## [029] 2026-10-04 21:45:03Z - feat(rbac): define permission matrix for personnel officer
 ## [030] 2026-10-04 21:45:43Z - feat(rbac): implement deny-by-default permission checker
+## [031] 2026-10-04 21:46:23Z - feat(rbac): add fast-api dependency for permission enforcement
