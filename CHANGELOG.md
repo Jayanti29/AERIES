@@ -304,3 +304,4 @@
 ## [302] 2026-10-05 00:47:03Z - feat(state): implement 8 domain health scoring algorithm
 ## [303] 2026-10-05 00:47:43Z - feat(state): implement primary constraint detector with root cause isolation
 ## [304] 2026-10-05 00:48:23Z - feat(state): implement timeline projection scrubber (+15, +30, +60, +120 mins)
+## [305] 2026-10-05 00:49:03Z - feat(graph): build NetworkX dependency graph with platforms, bases, resources
