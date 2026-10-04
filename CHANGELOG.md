@@ -217,3 +217,4 @@
 ## [215] 2026-10-04 23:49:03Z - feat(seed): provision 9 default user accounts with pre-enrolled mfa secrets
 ## [216] 2026-10-04 23:49:43Z - feat(crypto): apply envelope encryption to personnel real names during seed
 ## [217] 2026-10-04 23:50:23Z - feat(data-layer): refine telemetry ingestion and data validation rule 17
+## [218] 2026-10-04 23:51:03Z - feat(data-layer): refine telemetry ingestion and data validation rule 18
