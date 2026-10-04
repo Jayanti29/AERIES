@@ -5,3 +5,4 @@
 ## [003] 2026-10-04 21:27:43Z - feat(config): define pydantic settings with environment overrides
 ## [004] 2026-10-04 21:28:23Z - feat(docker): configure multi-network docker-compose with edge, app, and data networks
 ## [005] 2026-10-04 21:29:03Z - feat(nginx): implement edge reverse proxy with rate limiting and security headers
+## [006] 2026-10-04 21:29:43Z - feat(security): implement argon2id password hasher with salt hardening
