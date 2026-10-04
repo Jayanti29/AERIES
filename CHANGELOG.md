@@ -6,3 +6,4 @@
 ## [004] 2026-10-04 21:28:23Z - feat(docker): configure multi-network docker-compose with edge, app, and data networks
 ## [005] 2026-10-04 21:29:03Z - feat(nginx): implement edge reverse proxy with rate limiting and security headers
 ## [006] 2026-10-04 21:29:43Z - feat(security): implement argon2id password hasher with salt hardening
+## [007] 2026-10-04 21:30:23Z - feat(security): add pure-python pbkdf2 sha256 password hashing fallback
