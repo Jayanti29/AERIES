@@ -108,3 +108,4 @@
 ## [106] 2026-10-04 22:36:23Z - feat(ui): add StatusBadge component with color, icon, and text
 ## [107] 2026-10-04 22:37:03Z - feat(ui): add KpiCard component with provenance metadata tooltip
 ## [108] 2026-10-04 22:37:43Z - feat(ui): add HealthBar component with threshold indicators
+## [109] 2026-10-04 22:38:23Z - feat(ui): add PlanDNA radar visualization component
