@@ -106,3 +106,4 @@
 ## [104] 2026-10-04 22:35:03Z - feat(ui): bundle inter and jetbrains mono font families
 ## [105] 2026-10-04 22:35:43Z - feat(ui): add HandlingBanner component with SYNTHETIC DATA flag
 ## [106] 2026-10-04 22:36:23Z - feat(ui): add StatusBadge component with color, icon, and text
+## [107] 2026-10-04 22:37:03Z - feat(ui): add KpiCard component with provenance metadata tooltip
