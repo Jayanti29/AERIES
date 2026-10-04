@@ -411,3 +411,4 @@
 ## [409] 2026-10-05 01:58:23Z - feat(people): implement availability:flag controlled audited action
 ## [410] 2026-10-05 01:59:03Z - feat(pilot): implement /pilot/me duty endpoint with strict state:read_own check
 ## [411] 2026-10-05 01:59:43Z - feat(pilot): implement /pilot/me/schedule and notification feed
+## [412] 2026-10-05 02:00:23Z - feat(domains): refine operational dashboard telemetry channel 12
