@@ -22,3 +22,4 @@
 ## [020] 2026-10-04 21:39:03Z - feat(rbac): declare 9 discrete operational roles in role enum
 ## [021] 2026-10-04 21:39:43Z - feat(rbac): define permission matrix for administrator
 ## [022] 2026-10-04 21:40:23Z - feat(rbac): define permission matrix for operations planner
+## [023] 2026-10-04 21:41:03Z - feat(rbac): define permission matrix for decision authority
