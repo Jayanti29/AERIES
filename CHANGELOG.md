@@ -13,3 +13,4 @@
 ## [011] 2026-10-04 21:33:03Z - feat(security): implement jwt refresh token generator and decoder
 ## [012] 2026-10-04 21:33:43Z - feat(security): implement aes-256-gcm authenticated envelope encryption
 ## [013] 2026-10-04 21:34:23Z - feat(security): implement authenticated hmac-sha256 field encryption fallback
+## [014] 2026-10-04 21:35:03Z - feat(security): implement digital signature generator using hmac-sha256
