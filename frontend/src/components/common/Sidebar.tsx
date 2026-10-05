@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import {
   Shield, Activity, Layers, Compass, Sliders, PlayCircle,
   FileCheck, Database, FileText, Settings, User, AlertOctagon,
-  Cpu, Box, Users, Plane
+  Cpu, Box, Users, Plane, History
 } from 'lucide-react';
 import { useAuthStore } from '../../store/authStore';
 import { Role } from '../../types';
@@ -38,6 +38,7 @@ const MENU_SECTIONS: { title: string; items: MenuItem[] }[] = [
     items: [
       { name: 'Plans & Missions', path: '/plans', icon: Layers, allowedRoles: ['Operations Planner', 'Decision Authority', 'Analyst'] },
       { name: 'Trade-off Explorer', path: '/tradeoffs', icon: Sliders, allowedRoles: ['Operations Planner', 'Decision Authority'] },
+      { name: 'Dependency Graph', path: '/graph', icon: Cpu, allowedRoles: ['Operations Planner', 'Decision Authority', 'Analyst'] },
       { name: 'Chaos Lab', path: '/chaos', icon: PlayCircle, allowedRoles: ['Operations Planner', 'Decision Authority'] },
       { name: 'Stress Test', path: '/stress', icon: Cpu, allowedRoles: ['Operations Planner', 'Decision Authority'] }
     ]
@@ -46,6 +47,9 @@ const MENU_SECTIONS: { title: string; items: MenuItem[] }[] = [
     title: 'Decisions & Governance',
     items: [
       { name: 'Decision Queue', path: '/decisions', icon: FileCheck, allowedRoles: ['Decision Authority', 'Operations Planner', 'Auditor'] },
+      { name: 'Decision Replay', path: '/replay', icon: History, allowedRoles: ['Decision Authority', 'Auditor', 'Operations Planner'] },
+      { name: 'Data Health', path: '/data-health', icon: Database, allowedRoles: ['Operations Planner', 'Analyst', 'Administrator', 'Craft Officer', 'Supply Officer', 'Personnel Officer'] },
+      { name: 'Model Registry', path: '/models', icon: Cpu, allowedRoles: ['Auditor', 'Administrator', 'Analyst'] },
       { name: 'Audit Ledger', path: '/audit', icon: FileText, allowedRoles: ['Auditor', 'Administrator'] },
       { name: 'Administration', path: '/admin', icon: Settings, allowedRoles: ['Administrator'] }
     ]

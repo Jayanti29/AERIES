@@ -2,6 +2,7 @@ import React from 'react';
 import { HandlingBanner } from './HandlingBanner';
 import { Sidebar } from './Sidebar';
 import { TopBar } from './TopBar';
+import { IdleTimer } from './IdleTimer';
 
 interface AppShellProps {
   children: React.ReactNode;
@@ -11,6 +12,7 @@ export const AppShell: React.FC<AppShellProps> = ({ children }) => {
   return (
     <div className="min-h-screen bg-[#0B1220] text-[#E8EDF7] flex flex-col font-sans">
       <HandlingBanner />
+      <IdleTimer />
       <div className="flex flex-1 overflow-hidden">
         <Sidebar />
         <div className="flex-1 flex flex-col overflow-y-auto">
