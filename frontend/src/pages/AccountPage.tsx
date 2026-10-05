@@ -1,6 +1,6 @@
 import React from 'react';
 import { User, Shield, KeyRound, LogOut } from 'lucide-react';
-import { useAuthStore } from '../../store/authStore';
+import { useAuthStore } from '../store/authStore';
 
 export const AccountPage: React.FC = () => {
   const { user, clearAuth } = useAuthStore();

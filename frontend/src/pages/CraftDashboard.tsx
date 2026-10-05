@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { fetchApi } from '../services/api';
 import { StatusBadge } from '../components/common/StatusBadge';
 import { KpiCard } from '../components/common/KpiCard';
-import { Plane, AlertTriangle, Tool, CheckCircle2 } from 'lucide-react';
+import { Plane, AlertTriangle, Wrench, CheckCircle2 } from 'lucide-react';
 
 export const CraftDashboard: React.FC = () => {
   const [fleet, setFleet] = useState<any[]>([]);
@@ -31,7 +31,7 @@ export const CraftDashboard: React.FC = () => {
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <KpiCard title="Fleet Inventory" value={summary?.fleet_total || 60} status="NOMINAL" icon={Plane} />
         <KpiCard title="Sortie Ready" value={summary?.fleet_ready || 52} status="HEALTHY" icon={CheckCircle2} />
-        <KpiCard title="In Maintenance" value={summary?.fleet_in_maintenance || 8} status="WARNING" icon={Tool} />
+        <KpiCard title="In Maintenance" value={summary?.fleet_in_maintenance || 8} status="WARNING" icon={Wrench} />
         <KpiCard title="Constraints (2h)" value={summary?.predicted_constraints_2h || 4} status="CRITICAL" icon={AlertTriangle} />
       </div>
 
